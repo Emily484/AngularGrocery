@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularGrocery"
+    }
+  },
+  "defaultProject": "AngularGrocery",
+  "cli": {
+    "analytics": false
+  }
 }
